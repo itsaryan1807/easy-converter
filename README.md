@@ -5,6 +5,7 @@ Easy converter helps peoples to convert the file format into thier choosen forma
 ## Features
 
 - Word To PDF
+- PDF To Word
 
 ## Multiplatform Support
 
