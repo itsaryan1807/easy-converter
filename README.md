@@ -4,5 +4,9 @@ Easy converter helps peoples to convert the file format into thier choosen forma
 
 ## Features
 
-- Py To IPYNB
 - Word To PDF
+
+## Multiplatform Support
+
+- Windows
+- Linux
