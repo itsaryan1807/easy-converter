@@ -202,11 +202,7 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-input.docx
-input.pdf 
-output.pdf
-cpp.pdf
-output.docx
-first.pdf
+sample.pdf
+sample.docx
 
 settings.json
