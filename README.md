@@ -6,6 +6,7 @@ Easy converter helps peoples to convert the file format into thier choosen forma
 
 - Word To PDF
 - PDF To Word
+- Image To Pdf
 
 ## Multiplatform Support
 
