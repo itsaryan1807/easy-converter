@@ -6,6 +6,7 @@
 
 - ✅ Convert Word documents to PDF
 - ✅ Convert PDF files to Word documents
+- ✅ Convert Image files to PDF
 - ✅ Simple and intuitive interface
 - ✅ Fast and efficient processing
 
