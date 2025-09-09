@@ -1,11 +1,12 @@
 # Easy-Converter
 
-**Easy-Converter** is a simple, fast, and user-friendly file format converter that allows users to seamlessly convert files between different formats. Currently, it supports converting documents from Word to PDF and PDF to Word, making document management effortless for users across multiple platforms.
+**Easy-Converter** is a simple, fast, and user-friendly file format converter that allows users to seamlessly convert files between different formats. Currently, it supports converting documents from Word to PDF, PDF to Word, and images to PDF, making document management effortless for users across multiple platforms.
 
 ## 🚀 Features
 
 - ✅ Convert Word documents to PDF
 - ✅ Convert PDF files to Word documents
+- ✅ Convert Image files to PDF
 - ✅ Simple and intuitive interface
 - ✅ Fast and efficient processing
 
@@ -20,13 +21,13 @@ Easy-Converter is built to work across multiple operating systems:
 
 - Microsoft Word (.docx, .doc)
 - PDF (.pdf)
+- Image files (.jpg, .jpeg, .png, etc.)
 
 ## 📥 Installation
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/altamsh04/easy-converter.git
-   
 ````
 
 2. Navigate to the project directory:
@@ -39,7 +40,7 @@ Easy-Converter is built to work across multiple operating systems:
 ## 🛠 How to Use
 
 1. Open the Easy-Converter application.
-2. Select the desired file format conversion option (Word to PDF or PDF to Word).
+2. Select the desired file format conversion option (Word to PDF, PDF to Word, or Image to PDF).
 3. Choose the file you want to convert.
 4. Select the destination format and output location.
 5. Click "Convert" and wait for the process to complete.
@@ -70,5 +71,4 @@ For support or any questions, feel free to open an issue or contact the reposito
 
 **Easy-Converter** — Making file format conversion easy, efficient, and accessible to everyone!
 
-```
 ```
